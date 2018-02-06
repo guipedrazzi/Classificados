@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="form-control"><h1>Fala que é nois</h1></div>
+    <div class="form-control"><h1>Fala que é nois teste</h1></div>
 	<div class="jumbotron">
 		<h2>Nós temos <?php echo $total_anuncios; ?> anuncios</h2>
 		<p>E mais de <?php echo $total_usuarios; ?> usuários cadastrados.</p>
